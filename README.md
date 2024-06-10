@@ -9,7 +9,7 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 ## Wrk - Micro-Service Architecture Production Level Codebase
 <a id="wrk"></a> 
 
-- __Frontend__: [Wrk Frontend Repository](https://github.com/AshNewar/wrk-frontend)
+- __Frontend__: [Wrk Frontend Repository](https://github.com/AshNewar/Freelance-Frontend)
 - __Backend__:
   - __[Gateway Service](https://github.com/AshNewar/freelance-gateway)__
   - __[Notification Service](https://github.com/AshNewar/freelance-Notification)__
