@@ -22,19 +22,19 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
   - __[Jenkins Automation](https://github.com/AshNewar/Jenkins-Automation)__
   - __[Helper Library](https://github.com/AshNewar/helper-library)__
 
-- __Cloud Deployment (Minikube and AWS)__: [Wrk Cloud Deployment](https://github.com/AshNewar/wrk-cloud-deployment)
-- __DockerFile and Compose and Volumes__: [Wrk Docker Configuration](https://github.com/AshNewar/wrk-docker)
+- __Cloud Deployment (Minikube and AWS)__: [Wrk Cloud Deployment](https://github.com/AshNewar/Micro-K8)
+- __DockerFile and Compose and Volumes__: [Wrk Docker Configuration](https://github.com/AshNewar/Micro-Volume)
 ## JustPostIT - A Social Media Platform To Share Your Memories
 <a id="just"></a>
 
-- __Frontend__: [JustPostIT Frontend Repository](https://github.com/username/justpostit-frontend)
-- __Backend__: [JustPostIT Backend Repository](https://github.com/username/justpostit-backend)
-- __Cloud Deployment (Minikube and AWS Configurations)__: [JustPostIT Cloud Deployment Configurations](https://github.com/username/justpostit-cloud-deployment)
-- __DockerFile and Compose and Volumes__: [JustPostIT Docker Configuration](https://github.com/username/justpostit-docker)
+- __Frontend__: [JustPostIT Frontend Repository](https://github.com/AshNewar/Media-Client)
+- __Backend__: [JustPostIT Backend Repository](https://github.com/AshNewar/Media-Server)
+- __Cloud Deployment (Minikube and AWS Configurations)__: [JustPostIT Cloud Deployment Configurations](https://github.com/AshNewar/justpostit-cloud-deployment) Will be updated Soon
+- __DockerFile and Compose and Volumes__: [JustPostIT Docker Configuration](https://github.com/AshNewar/justpostit-docker) Will be updated Soon
 
 ## Aptures - Web3 Trading Platform
 <a id="aptures"></a>
 
-- __Frontend__: [Aptures Frontend Repository](https://github.com/username/aptures-frontend)
-- __Backend__: [Aptures Backend Repository](https://github.com/username/aptures-backend)
+- __Frontend__: [Aptures Frontend Repository](https://github.com/AshNewar/aptures-frontend)  Will be updated Soon
+- __Backend__: [Aptures Backend Repository](https://github.com/AshNewar/aptures-backend)  Will be updated Soon
 
