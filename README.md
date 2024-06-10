@@ -18,8 +18,7 @@ Create Section Headings: Ensure your sections are properly defined with headings
 
 Generate Links to Sections: Use the format #section-title where the section title is in lowercase, spaces are replaced with hyphens, and special characters are removed.
 
-Optional - Add Link Symbols: You can add link symbols next to your headings for better navigation.
-
+Optional - Add Link Symbols: You can add link symbols next to your headings for better navigation
 Example
 Here's a comprehensive example:
 
