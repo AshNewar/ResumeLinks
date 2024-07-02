@@ -15,6 +15,10 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 ## Wrk - Micro-Service Architecture Production Level Codebase
 <a id="wrk"></a> 
 
+#### ARCHITECTURE
+
+![image](https://github.com/AshNewar/ResumeLinks/assets/122523482/4f7dcff5-7fee-4ef0-8cac-a2ef23ec9cb7)
+
 - __Frontend__: [Wrk Frontend Repository](https://github.com/AshNewar/Freelance-Frontend)
 - __Backend__:
   - __[Gateway Service](https://github.com/AshNewar/freelance-gateway)__
