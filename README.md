@@ -49,8 +49,7 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 ## Aptures - Web3 Trading Platform
 <a id="aptures"></a>
 
-- __Frontend__: [Aptures Frontend Repository](https://github.com/AshNewar/aptures-frontend)  Will be updated Soon
-- __Backend__: [Aptures Backend Repository](https://github.com/AshNewar/aptures-backend)  Will be updated Soon
+- __GITHUB REPO__: [Aptures Repository](https://github.com/AshNewar/APTURES-INTERIIT-PS)
 
 
 ---
