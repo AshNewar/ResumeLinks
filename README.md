@@ -9,6 +9,9 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 - __[My Own Website Deployer Using AWS](#deploy)__
 - __[LetsCODE - MY OWN IDLE ](#idle)__
 
+
+---
+
 ## Wrk - Micro-Service Architecture Production Level Codebase
 <a id="wrk"></a> 
 
@@ -27,6 +30,11 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 
 - __Cloud Deployment (Minikube and AWS)__: [Wrk Cloud Deployment](https://github.com/AshNewar/Micro-K8)
 - __DockerFile and Compose and Volumes__: [Wrk Docker Configuration](https://github.com/AshNewar/Micro-Volume)
+
+
+---
+
+
 ## JustPostIT - A Social Media Platform To Share Your Memories
 <a id="just"></a>
 
@@ -35,6 +43,9 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 - __Cloud Deployment (Minikube and AWS Configurations)__: [JustPostIT Cloud Deployment Configurations](https://github.com/AshNewar/justpostit-cloud-deployment) Will be updated Soon
 - __DockerFile and Compose and Volumes__: [JustPostIT Docker Configuration](https://github.com/AshNewar/justpostit-docker) Will be updated Soon
 
+
+---
+
 ## Aptures - Web3 Trading Platform
 <a id="aptures"></a>
 
@@ -42,21 +53,31 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 - __Backend__: [Aptures Backend Repository](https://github.com/AshNewar/aptures-backend)  Will be updated Soon
 
 
+---
+
 
 ## Scalable Chat System Design
 <a id="chat"></a>
+- __GITHUB REPO__ [CLICK HERE](https://github.com/AshNewar/ScaleAble-Chat-App)
 
 
+---
 
 
 ## My Own Website Deployer Using AWS
 <a id="deploy"></a>
+- __GITHUB REPO__ [CLICK HERE](https://github.com/AshNewar/ScaleAble-Chat-App)
 
 
+---
 
 
 ## LetsCODE - MY OWN IDLE 
 <a id="idle"></a>
+- __GITHUB REPO__ [CLICK HERE](https://github.com/AshNewar/ScaleAble-Chat-App)
+
+
+---
 
 
 
