@@ -4,7 +4,7 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 
 - __[Wrk - Micro-Service Architecture Production Level Codebase](#wrk)__
 - __[JustPostIT - A Social Media Platform To Share Your Memories](#just)__
-- __[Aptures - Web3 Trading Platform](#aptures)__
+- __[Aptures - Web3 Trading Platform On APTOS](#aptures)__
 - __[Scalable Chat System Design](#chat)__
 - __[My Own Website Deployer Using AWS](#deploy)__
 - __[LetsCODE - MY OWN IDLE ](#idle)__
@@ -77,8 +77,7 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 
 ## LetsCODE - MY OWN IDLE 
 <a id="idle"></a>
-- __GITHUB REPO__ [CLICK HERE](https://github.com/AshNewar/ScaleAble-Chat-App)
-
+- __GITHUB REPO AND ARCHITECTURE__ [CLICK HERE](https://github.com/AshNewar/OwnCodeEditor/tree/main)
 
 ---
 
