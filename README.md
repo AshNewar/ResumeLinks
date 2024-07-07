@@ -77,6 +77,8 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 
 
 ## LetsCODE - MY OWN IDLE 
+![image](https://github.com/AshNewar/ResumeLinks/assets/122523482/5cbfdae8-5c3a-4060-8f2f-115291932d4b)
+
 <a id="idle"></a>
 - __GITHUB REPO AND ARCHITECTURE__ [CLICK HERE](https://github.com/AshNewar/OwnCodeEditor/tree/main)
 
