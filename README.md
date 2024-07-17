@@ -70,8 +70,7 @@ All the Frontend and Backend GitHub Repos of my Projects are given here:
 
 ## My Own Website Deployer Using AWS
 <a id="deploy"></a>
-- __GITHUB REPO__ [CLICK HERE](https://github.com/AshNewar/ScaleAble-Chat-App)
-
+- __GITHUB REPO__ [CLICK HERE](https://github.com/AshNewar/My_Own_Deployer)
 
 ---
 
